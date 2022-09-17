@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font: 25px;
+  background-color: #c2d982 ;
+}
+h1{
+  color: #d52101;
+  text-align: center;
+  
+}
+H3{
+  color:black;
+  text-align: center;
+}
+div {
+  color:black;
+  font-size: 18px;
+  line-break: 5px;
+}
+li{
+  color: darkorange;
+}
+.info {
+  text-align: center;
+}
+.click{
+  text-align: center;
+}
+details{
+  text-align: center;
+  color:#3700ff;
+  font-size:30px;
+   border: 3PX double black;
+}
+details p{
+  font-size:20px;
+  text-align: left;
+ 
+}
+footer{
+  text-align: center;
+}
